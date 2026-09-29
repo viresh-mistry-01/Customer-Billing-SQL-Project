@@ -1,0 +1,100 @@
+Customer_ID,Industry,Subsector
+350,Education,Vocational Training
+360,Software,Cybersecurity
+362,Banking,Retail Banking
+395,Hospitality,Resorts
+528,Retail,E-commerce
+653,Manufacturing,Electronics Manufacturing
+675,Manufacturing,Industrial Equipment
+752,Healthcare,Telehealth
+815,Hospitality,Resorts
+827,Software,Cybersecurity
+956,Education,E-learning
+965,Hospitality,Resorts
+1012,Media,Streaming Services
+1034,Transportation,Freight Logistics
+1057,Software,Enterprise SaaS
+1083,Telecommunications,Cloud Communications
+1169,Energy,Renewable Energy
+1230,Banking,Investment Banking
+1353,Banking,Investment Banking
+1406,Software,Cybersecurity
+1473,Manufacturing,Industrial Equipment
+1501,Manufacturing,Industrial Equipment
+1586,Transportation,Warehousing
+1589,Telecommunications,Cloud Communications
+1652,Banking,Investment Banking
+1685,Transportation,Courier Services
+1912,Manufacturing,Industrial Equipment
+1970,Hospitality,Resorts
+2050,Education,Higher Education
+2187,Hospitality,Event Venues
+2398,Transportation,Courier Services
+2413,Energy,Renewable Energy
+2495,Manufacturing,Consumer Goods
+2617,Insurance,Life Insurance
+2703,Telecommunications,Cloud Communications
+2751,Retail,Grocery Retail
+2854,Food & Beverage,Restaurants
+2856,Real Estate,Property Management
+3122,Banking,Retail Banking
+3397,Food & Beverage,Beverage Production
+3407,Food & Beverage,Food Processing
+3475,Healthcare,Medical Devices
+3871,Hospitality,Hotels
+3880,Energy,Power Generation
+3887,Construction,Commercial Construction
+3920,Retail,Fashion Retail
+4001,Healthcare,Telehealth
+4047,Manufacturing,Consumer Goods
+4049,Food & Beverage,Restaurants
+4106,Construction,Civil Engineering
+4115,Software,Cybersecurity
+4238,Software,CRM Software
+4247,Energy,Renewable Energy
+4318,Software,Enterprise SaaS
+4367,Construction,Residential Construction
+4469,Real Estate,Property Management
+4533,Construction,Residential Construction
+4565,Telecommunications,Mobile Networks
+4607,Retail,Grocery Retail
+4653,Food & Beverage,Restaurants
+4901,Banking,Commercial Banking
+4982,Hospitality,Event Venues
+5004,Insurance,Health Insurance
+5011,Transportation,Courier Services
+5272,Software,Enterprise SaaS
+5327,Media,Streaming Services
+5391,Energy,Renewable Energy
+5392,Software,Enterprise SaaS
+5400,Transportation,Courier Services
+5497,Retail,E-commerce
+5754,Real Estate,Commercial Real Estate
+5755,Education,Higher Education
+5914,Telecommunications,Cloud Communications
+6006,Media,Broadcasting
+6065,Real Estate,Property Management
+6177,Construction,Civil Engineering
+6215,Telecommunications,Cloud Communications
+6281,Manufacturing,Consumer Goods
+6284,Hospitality,Event Venues
+6338,Software,Cybersecurity
+6414,Banking,Commercial Banking
+6430,Education,Higher Education
+6516,Manufacturing,Consumer Goods
+6669,Food & Beverage,Beverage Production
+6676,Retail,Fashion Retail
+6711,Software,Enterprise SaaS
+6729,Real Estate,Property Management
+6745,Manufacturing,Industrial Equipment
+6746,Real Estate,Property Management
+6752,Software,Enterprise SaaS
+6757,Energy,Power Generation
+6771,Retail,E-commerce
+6808,Insurance,Property & Casualty
+6867,Education,E-learning
+6950,Real Estate,Property Management
+7028,Construction,Civil Engineering
+7056,Healthcare,Medical Devices
+7087,Construction,Residential Construction
+7107,Construction,Residential Construction
