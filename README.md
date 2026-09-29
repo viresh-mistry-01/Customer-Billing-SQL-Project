@@ -12,7 +12,7 @@ Personal project to test my SQL skills by analysing customer revenue trends acro
 
 ### Methods
 - Loading data: joins, variables, bulk insert, case
-- Analysing data: pivot, aggregates, window functions
+- Analysing data: pivot, aggregates, CTEs, case, group by, joins
 - AI: usage of built-in Copilot tool to improve automation and clarity within code
 
 ### Results (highlights)
