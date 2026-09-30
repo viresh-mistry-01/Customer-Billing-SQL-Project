@@ -4,7 +4,7 @@ Personal project to test my SQL skills by analysing customer revenue trends acro
 
 ### Overview
 - Goal: Join datasets containing revenue and customer descriptions, then analyse data
-- Stack: SQL (SQL Server)
+- Stack: SQL (SQL Server), Github Copilot
 
 ### Dataset
 - Source: https://www.kaggle.com/datasets/vireshmistry01/sql-customer-revenue-project
